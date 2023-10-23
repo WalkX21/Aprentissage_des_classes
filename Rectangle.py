@@ -22,4 +22,4 @@ rectangle = Rectangle(a, b)
 rectangle.print_info()
 print("it's perimeter : " , rectangle.perimeter())
 print("it's area : " , rectangle.aire())
-
+# commentaire
