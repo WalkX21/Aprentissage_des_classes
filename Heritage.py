@@ -1,4 +1,5 @@
 from time import sleep
+from zelda2 import Link
 
 class Hero():
     #class constructor
@@ -71,5 +72,5 @@ magicianred.attack(Warior1)
 
 
     
-
+sup
 
